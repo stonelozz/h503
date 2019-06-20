@@ -64,7 +64,7 @@ body{
 }
 
 .pic{
-    width:100%;
+    width:640px;
     height:auto;
     max-width: 100%;
     /* border: 1px solid red; */
