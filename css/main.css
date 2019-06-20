@@ -16,15 +16,14 @@ body ::-webkit-scrollbar {
     }
 body{
     -webkit-overflow-scrolling: touch;
-     margin:0;
-     padding: 0;
+   
 /*     width: 640px; */
 /*     height:auto; */
     /* max-width: 640px; */
     /* display:block; */
     /* width:640PX; */
     /* height:12500px; */
-    background-color:white;
+  
 /*     resize: both; */
     z-index: -10;
 }
@@ -42,6 +41,7 @@ body{
     margin:0;
     width:640px;
     padding:0;
+      background-color:white;
 }
 #audio{
     position:absolute;
