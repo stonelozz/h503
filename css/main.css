@@ -288,7 +288,7 @@ body{
     top:10000px; 
     left:200px;
     z-index:5;
-         width: 640px;
+         width: 456px;
 
 }
 #img25{
@@ -297,7 +297,8 @@ body{
     left:200px;
     z-index:5;
      opacity: 0;
-       
+            width: 452px;
+
 
 
 }
