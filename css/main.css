@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin:0;
-    overflow:auto;
+/*     overflow:auto; */
     overflow-y: scroll;
     overflow-x: hidden;
     touch-action:none;
@@ -18,8 +18,8 @@ body{
     -webkit-overflow-scrolling: touch;
      margin:0;
      padding: 0;
-    width: 640px;
-    height:auto;
+/*     width: 640px; */
+/*     height:auto; */
     /* max-width: 640px; */
     /* display:block; */
     /* width:640PX; */
