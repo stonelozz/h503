@@ -71,7 +71,7 @@ body{
 
 }
 #img2{
-   
+     width: 640px;
     position: absolute; 
     top:0px; 
     left:0px;
