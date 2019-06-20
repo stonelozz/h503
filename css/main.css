@@ -207,6 +207,7 @@ body{
 
 }
 #img18{
+     width: 640px;
     position: absolute; 
     top:6500px; 
     left:0px;
@@ -220,6 +221,7 @@ body{
 }
 
 #img19{
+     width: 640px;
     position: absolute; 
     top:6500px; 
     left:0px;
