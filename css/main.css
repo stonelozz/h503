@@ -147,14 +147,14 @@ body{
 #img11{
     position: absolute; 
     top:5000px; 
-    left:-190px;
+    left:-150px;
     z-index:20;
     opacity:0;
 }
 #img12{
     position: absolute; 
     top:5200px; 
-    left:110px;
+    left:0px;
     z-index:20;
     opacity:0;
 
@@ -162,7 +162,7 @@ body{
 #img13{
     position: absolute; 
     top:5400px; 
-    left:-190px;
+    left:-150px;
     z-index:20;
     opacity:0;
 
@@ -170,23 +170,16 @@ body{
 #img14{
     position: absolute; 
     top:5600px; 
-    left:110px;
+    left:0px;
     z-index:20;
         opacity:0;
 
 }
-#img15{
-    position: absolute; 
-    top:5800px; 
-    left:-190px;
-    z-index:20;
-    opacity:0;
 
-}
 #img15{
     position: absolute; 
     top:6000px; 
-    left:110px;
+    left:-150px;
     z-index:20;
     opacity:0;
 
@@ -194,7 +187,7 @@ body{
 #img16{
     position: absolute; 
     top:6200px; 
-    left:-190px;
+    left:-0px;
     z-index:20;
     opacity:0;
 
@@ -202,7 +195,7 @@ body{
 #img17{
     position: absolute; 
     top:6400px; 
-    left:110px;
+    left:-140px;
     z-index:20;
     opacity:0;
 
